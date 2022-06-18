@@ -3,6 +3,7 @@ import streamlit as st
 import dataframefunctions
 import dataexploration
 import plots
+import pandas 
 import runpredictions
 from PIL import Image
 import numpy as np
