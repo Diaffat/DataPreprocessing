@@ -18,5 +18,4 @@ scipy
 numpy
 
 sklearn
-pickle
 time==0.3.0
