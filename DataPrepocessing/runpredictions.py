@@ -35,7 +35,7 @@ from sklearn.metrics import confusion_matrix,ConfusionMatrixDisplay
 from sklearn.metrics import classification_report
 from sklearn.metrics import RocCurveDisplay
 from sklearn.ensemble import RandomForestClassifier
-import pickle
+import pickle4 as pickle
 import matplotlib.pyplot as plt
 
 
