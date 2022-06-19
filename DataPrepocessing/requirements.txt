@@ -3,7 +3,7 @@ pandas==1.4.2
 pytest==6.2.4
 scikit-image==0.18.3
 scikit-learn==1.0.2
-
+dataexploration
 statsmodels==0.12.2
 stemming==1.0.1
 streamlit==1.10.0
