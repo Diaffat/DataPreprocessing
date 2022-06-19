@@ -16,6 +16,6 @@ matplotlib
 seaborn
 scipy
 numpy
-time
+time==0.3.0
 sklearn
 pickle
