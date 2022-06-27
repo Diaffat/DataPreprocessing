@@ -1,5 +1,5 @@
 # Une video explicative de l'application
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/oGmdS8RGSG4)
+[<img src="https://img.youtube.com/vi/oGmdS8RGSG4/maxresdefault.jpg" width="50%">](https://youtu.be/oGmdS8RGSG4)
 
 # DataPreprocessing
 voici le lien de l'application deployée:
